@@ -8,6 +8,13 @@ API para gerenciar posts de blog e comentários, desenvolvida em C# .NET com Ent
 
 ```bash
 git clone https://github.com/TavaresLuc/APIBlogPost
+```
+
+```bash
+cd APIBlogPost
+```
+
+```bash
 cd APIBlogPost
 ```
 
@@ -28,6 +35,16 @@ dotnet ef database update
 ```bash
 dotnet run
 ```
+### 4. Executar a aplicação
+
+<img width="1082" height="107" alt="image" src="https://github.com/user-attachments/assets/f94f56d3-3a03-496a-bf8c-c8a405c3a015" />
+
+```bash
+Agora basta acessar http://localhost:5175/swagger e realizar os testes na API. 
+```
+
+<img width="1509" height="683" alt="image" src="https://github.com/user-attachments/assets/ea14913b-adc6-4453-bf52-409c489d3648" />
+
 
 Ou pressione **F5** no Visual Studio.
 
