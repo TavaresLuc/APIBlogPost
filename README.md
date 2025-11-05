@@ -7,7 +7,7 @@ API para gerenciar posts de blog e comentários, desenvolvida em C# .NET com Ent
 ### 1. Clone o repositório
 
 ```bash
-git clone [URL_DO_REPOSITORIO]
+git clone https://github.com/TavaresLuc/APIBlogPost
 cd APIBlogPost
 ```
 
