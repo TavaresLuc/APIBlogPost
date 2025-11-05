@@ -35,7 +35,6 @@ dotnet ef database update
 ```bash
 dotnet run
 ```
-### 4. Executar a aplicação
 
 <img width="1082" height="107" alt="image" src="https://github.com/user-attachments/assets/f94f56d3-3a03-496a-bf8c-c8a405c3a015" />
 
