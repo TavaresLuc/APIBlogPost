@@ -160,3 +160,15 @@ APIBlogPost/
 - O banco de dados é criado automaticamente na primeira execução
 - Swagger está habilitado apenas em ambiente de desenvolvimento
 - A autenticação usa Windows Authentication, então não precisa configurar login e senha utilizado no SSMS
+
+## 🔮 Próximos Passos
+
+### Funcionalidades
+ - [ ] **Autenticação e Autorização** - Implementar JWT para controle de acesso
+ - [ ] **Paginação** - Adicionar paginação nos endpoints de listagem
+ - [ ] **Busca e Filtros** - Permitir buscar posts por título, data ou autor
+ - [ ] **Edição e Exclusão** - Endpoints para atualizar e deletar posts/comentários
+ - [ ] **Validações** - Adicionar Data Annotations e FluentValidation
+ - [ ] **Upload de Imagens** - Permitir adicionar imagens aos posts
+ - [ ] **Likes/Curtidas** - Sistema de curtidas em posts e comentários
+ - [ ] **Front-end** - Conectar API a um front Web responsivo, criado com React
